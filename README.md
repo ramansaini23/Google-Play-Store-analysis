@@ -6,12 +6,15 @@ The goal of this project is to analyze the Google Play Store Apps dataset to der
 Overview of Dataset:
 
 -Total unique apps and categories in the dataset.
+
 Explore App Categories and Counts
 
 -Retrieve the unique app categories and the count of apps in each category.
+
 Top-rated Free Apps
 
 -Identify the top-rated free apps.
+
 Most Reviewed Apps
 
 -Find the apps with the highest number of reviews.
