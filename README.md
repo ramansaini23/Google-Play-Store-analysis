@@ -34,5 +34,42 @@ Average Sentiment Polarity by App Category
 
 -Analyze the average sentiment polarity of user reviews for each app category.
 
+Column Names and Descriptions
+
+googleplaystore Dataset
+
+App: Application name
+
+Category: The category the app belongs to
+
+Rating: Overall user rating of the app (as when scraped)
+
+Reviews: Number of user reviews for the app (as when scraped)
+
+Size: Size of the app (as when scraped)
+
+Installs: Number of user downloads/installs for the app (as when scraped)
+
+Type: Paid or Free
+
+Price: Price of the app (as when scraped)
+
+Content Rating: The age group the app is targeted at - Children / Mature 21+ / Adult
+
+Genres: An app can belong to multiple genres
+
+Last Updated: Date when the app was last updated on Play Store (as when scraped)
+
+Current Ver: Current version of the app available on Play Store (as when scraped)
+
+Android Ver: Min required Android version (as when scraped)
+
+googleplaystore_user_reviews Dataset
+
+App: Application name
+Sentiment: Sentiment of the review.
+Sentiment Polarity: Polarity of the sentiment.
+Sentiment Subjectivity: Subjectivity of the sentiment.
+Translated Review: Translated review text.
 Sentiment Reviews by App Category
 -Provide the distribution of sentiments across different app categories.
